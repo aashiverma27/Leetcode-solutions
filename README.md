@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
