@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
 | [2469-convert-the-temperature](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
