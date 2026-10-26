@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aashiverma27/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
