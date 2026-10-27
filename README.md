@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0412-fizz-buzz) |
