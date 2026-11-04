@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/aashiverma27/Leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/aashiverma27/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
