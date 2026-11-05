@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
