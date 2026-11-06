@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0263-ugly-number) |
@@ -98,9 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
