@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0905-sort-array-by-parity](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0905-sort-array-by-parity](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
