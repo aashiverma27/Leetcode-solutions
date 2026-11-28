@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aashiverma27/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/aashiverma27/Leetcode-solutions/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/aashiverma27/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
